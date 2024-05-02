@@ -24,7 +24,7 @@
 //User-defined values
 long receivedSteps = 0; //Number of steps
 long receivedSpeed = 0; //Steps / second
-long receivedAcceleration = 0; //Steps / second^2
+long receivedAcceleration = 1; //Steps / second^2
 char receivedCommand;
 //-------------------------------------------------------------------------------
 int directionMultiplier = 1; // = 1: positive direction, = -1: negative direction
