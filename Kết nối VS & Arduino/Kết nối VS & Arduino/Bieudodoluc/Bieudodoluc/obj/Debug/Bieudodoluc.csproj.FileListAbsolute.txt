@@ -1,0 +1,132 @@
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe.config
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.pdb
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.AssemblyReference.cache
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Form1.resources
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Properties.Resources.resources
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.GenerateResource.cache
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CoreCompileInputs.cache
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.exe
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.pdb
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.xml
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\de\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\es\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\fr\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\hu\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\it\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ja\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\pt\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ru\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\sk\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\sv\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\tr\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CopyComplete
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.AssemblyReference.cache
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.SuggestedBindingRedirects.cache
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Form1.resources
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Properties.Resources.resources
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.GenerateResource.cache
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CoreCompileInputs.cache
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.exe
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.pdb
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe.config
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.pdb
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.xml
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\DO_HE_THONG_CO\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CopyComplete
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe.config
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.pdb
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.xml
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.AssemblyReference.cache
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Form1.resources
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Properties.Resources.resources
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.GenerateResource.cache
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CoreCompileInputs.cache
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodo.ADF950D7.Up2Date
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.exe
+C:\Users\jeann\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.pdb
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe.config
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.pdb
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.xml
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.AssemblyReference.cache
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.SuggestedBindingRedirects.cache
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Form1.resources
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Properties.Resources.resources
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.GenerateResource.cache
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CoreCompileInputs.cache
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CopyComplete
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.exe
+C:\Users\T Dung\Downloads\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.pdb
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe.config
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.exe
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\Bieudodoluc.pdb
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\ZedGraph.xml
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\de\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\es\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\fr\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\hu\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\it\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\ja\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\pt\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\ru\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\sk\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\sv\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\tr\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.AssemblyReference.cache
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Form1.resources
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.Properties.Resources.resources
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.GenerateResource.cache
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.csproj.CoreCompileInputs.cache
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodo.ADF950D7.Up2Date
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.exe
+D:\EIU DOC\YEAR 3\MEC 232_ Đồ án 1\Kết nối VS & Arduino\Bieudodoluc\Bieudodoluc\obj\Debug\Bieudodoluc.pdb
